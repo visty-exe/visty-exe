@@ -118,3 +118,16 @@ Stronger software-engineering fundamentals
 ---
 
 > Build useful things. Understand the fundamentals. Keep improving.
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake.svg">
+  </picture>
+</p>
