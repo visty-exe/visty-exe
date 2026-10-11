@@ -161,9 +161,8 @@ Raj Kumar Goel Institute of Technology (RKGIT) · 2024–2028
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=visty-exe&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+<img src="https://view-counter.tobyhagan.com/?user=visty-exe" alt="Profile Views"/>
 
-<br/><br/>
 
 *Thanks for visiting! Feel free to explore my repositories and connect.*
 
