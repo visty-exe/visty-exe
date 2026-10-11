@@ -6,6 +6,19 @@
   <img src="./dark.svg" alt="Vishal Tyagi — Full Stack Developer">
 </picture>
 
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake.svg">
+  </picture>
+</p>
+
 ## About
 
 I'm a **Full Stack Developer** and B.Tech Computer Science & Engineering student focused on building practical web applications with the MERN stack while strengthening Java, DSA, and software-engineering fundamentals.
@@ -118,16 +131,3 @@ Stronger software-engineering fundamentals
 ---
 
 > Build useful things. Understand the fundamentals. Keep improving.
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/visty-exe/visty-exe/output/github-snake.svg">
-  </picture>
-</p>
